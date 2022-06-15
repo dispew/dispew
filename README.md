@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dispew
 - 👀 I’m interested in Data Science, Computer Vision and Robotics
-- 🌱 I’m currently learning Model Analysis
-- 💞️ I’m looking to collaborate on maida.health
+- 💻 I’m currently learning Model Analysis
+- 👍🏻 I’m looking to collaborate on maida.health
 
 <!---
 dispew/dispew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
